@@ -43,16 +43,8 @@ research_agent/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/research-agent.git
-cd research-agent
-```
-
-### 2️⃣ Create a Virtual Environment (Optional but Recommended)
-
-```bash
-python -m venv venv
-source venv/bin/activate   # Mac/Linux
-venv\Scripts\activate      # Windows
+[git clone https://github.com/your-username/research-agent.git
+cd research-agent](https://github.com/AshishMohanty04/Self-Initiated--Research-Agent.git)
 ```
 
 ### 3️⃣ Install Dependencies
